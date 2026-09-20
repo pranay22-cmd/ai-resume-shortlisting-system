@@ -1,0 +1,18 @@
+Job Title: Junior AI/ML Engineer
+
+We are looking for a Junior AI/ML Engineer.
+
+Requirements:
+
+Python
+Machine Learning
+Pandas
+NumPy
+Scikit-learn
+SQL
+Data Analysis
+
+The candidate should have knowledge of machine learning algorithms,
+data preprocessing and Python programming.
+
+Experience with machine learning projects is preferred.
