@@ -65,3 +65,10 @@ Clone the repository:
 ```bash
 git clone https://github.com/pranay22-cmd/ai-resume-shortlisting-system.git
 cd ai-resume-shortlisting-system
+
+## ▶️ Running the Project
+
+Run the application using:
+
+```bash
+python app.py
