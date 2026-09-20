@@ -72,3 +72,28 @@ Run the application using:
 
 ```bash
 python app.py
+
+## 🎯 Project Objective
+
+The objective of this project is to demonstrate the application of AI, NLP, semantic matching, and LLM-based analysis to automate the initial resume screening process.
+
+The system evaluates candidates against job requirements and produces a structured ranking to assist recruiters during the initial screening stage.
+
+## 🔮 Future Improvements
+
+- Multiple resume upload support
+- Interactive web dashboard
+- Explainable candidate scoring
+- Improved LLM integration
+- Candidate comparison dashboard
+- Database integration
+- Authentication and user management
+- Cloud deployment
+
+## 👨‍💻 Author
+
+**Pranay Tagade**
+
+AI Engineering Student
+
+GitHub: [pranay22-cmd](https://github.com/pranay22-cmd)
